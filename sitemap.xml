@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/kak-zarabotat.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/otzyvy.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/youthink.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/anketolog.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/anketka.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/kazakhstan.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/belarus.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/vk-telegram-prilozheniya.html</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/contact.html</loc><lastmod>2026-10-04</lastmod></url>
-  <url><loc>https://platnye-onlajn-oprosy.vercel.app/privacy.html</loc><lastmod>2026-10-04</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/kak-zarabotat.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/kak-zarabotat.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/kak-zarabotat-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/otzyvy.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/otzyvy.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/otzyvy-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/youthink.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/youthink.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/youthink-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/anketolog.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/anketolog.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/anketolog-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/anketka.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/anketka.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/kazakhstan.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/kazakhstan.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/kazakhstan-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/belarus.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/belarus.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/belarus-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/vk-telegram-prilozheniya.html</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/vk-telegram-prilozheniya.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/vk-telegram-prilozheniya-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/</loc><lastmod>2026-10-02</lastmod><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/glavnaya.webp</image:loc></image:image><image:image><image:loc>https://platnye-onlajn-oprosy.vercel.app/img/kak-vybrat-shema.webp</image:loc></image:image></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/contact.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://platnye-onlajn-oprosy.vercel.app/privacy.html</loc><lastmod>2026-10-19</lastmod></url>
 </urlset>
